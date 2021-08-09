@@ -1,0 +1,16 @@
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.exe
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.deps.json
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.runtimeconfig.json
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.runtimeconfig.dev.json
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.dll
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\ref\PrimeiroApp.dll
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\bin\Debug\net5.0\PrimeiroApp.pdb
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.csproj.AssemblyReference.cache
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.AssemblyInfoInputs.cache
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.AssemblyInfo.cs
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.dll
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\ref\PrimeiroApp.dll
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.pdb
+D:\Aula - Quarta - Noite\Aula-01\PrimeiroApp\obj\Debug\net5.0\PrimeiroApp.genruntimeconfig.cache
